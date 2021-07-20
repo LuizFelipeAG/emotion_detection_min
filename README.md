@@ -25,7 +25,7 @@ Project Organization
     ├── models                          <- Trained and serialized models, model predictions, or model summaries
     │   ├── model_tl_full_224x224.h5    <- rensnet50 model retrained on my dataset - url: https://drive.google.com/file/d/1sNKudyAw7TpCuMVem9jX48eV6N6IwZIV
     |
-    └── notebooks          <- Jupyter notebooks
+    └── notebooks                       <- Jupyter notebooks
 
 --------
 
