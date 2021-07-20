@@ -5,5 +5,3 @@ Unfortunately the model file from the path /api/app/models/model_tl_full_224x224
 
 https://drive.google.com/file/d/1sNKudyAw7TpCuMVem9jX48eV6N6IwZIV/
 
-Soon I will post the notebooks and dataset
-
